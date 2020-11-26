@@ -13,3 +13,8 @@ Feature | Description
 [MyTrieSet](https://github.com/LayneWei/mid-size-projects/blob/master/BearMaps/bearmaps/proj2c/MyTrieSet.java) | A TrieSet backs the autocomplete search feature, matching a prefix to valid location names in Θ(k) time, where k in the number of words sharing the prefix.
 [KDTree](https://github.com/LayneWei/mid-size-projects/blob/master/BearMaps/bearmaps/proj2ab/KDTree.java) | A K-Dimensional Tree backs the A* search algorithm, allowing efficient nearest neighbor lookup averaging O(log(n)) time.
 [ArrayHeapMinPQ](https://github.com/LayneWei/mid-size-projects/blob/master/BearMaps/bearmaps/proj2ab/ArrayHeapMinPQ.java) | A min-heap priority queue backs the A* search algorithm.
+
+# 2D Tiles Game
+CS61B 2D Tiles Game is a Video Game built with the reference of zelda-ii (the-adventure-of-link). In this video game, user will start with a avatar in a world filled with randomly generated and connected rooms tryinhg to escape from monsters. Some basic function provided for user are moving avatar based on keyboard, getting tile information with mouse, saving last game history, loading from last saved point, changing player's name. A demo of this game will be uploaded later.
+
+<img src="proj3/images/zelda2-4.jpg" alt="zelda-ii" width="100%"/>
