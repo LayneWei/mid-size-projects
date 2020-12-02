@@ -17,9 +17,9 @@ Feature | Description
 # zelda-ii Tiles Based Game
 CS61B 2D Tiles Game is a Video Game built with the reference of zelda-ii (the-adventure-of-link). In this video game, user will start with a avatar in a world filled with randomly generated and connected rooms tryinhg to escape from monsters. Some basic function provided for user are moving avatar based on keyboard, getting tile information with mouse, saving last game history, loading from last saved point, changing player's name. A demo of this game will be uploaded later.
 
-<img src="zelda-ii/images/zelda2-4.jpg" alt="zelda-ii" width="100%"/>
+<img src="/zelda-II/images/zelda2-4.jpg" alt="zelda-ii" width="100%"/>
 
 # ThunderCross Plane Game
 ThunderCross Plane Game is a small video game inspired by Thunder Cross for OOD practice. The user could control the hero plane to destory enemy plane and get award for adding life and set double fireforce.
 
-<img src="thunderCross/thunderCrossDemo.gif" alt="thunder-cross" width="100%"/>
+<img src="/thunderCross/thunderCrossDemo.gif" alt="thunder-cross" width="100%"/>
