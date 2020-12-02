@@ -22,4 +22,4 @@ CS61B 2D Tiles Game is a Video Game built with the reference of zelda-ii (the-ad
 # ThunderCross Plane Game
 ThunderCross Plane Game is a small video game inspired by Thunder Cross for OOD practice. The user could control the hero plane to destory enemy plane and get award for adding life and set double fireforce.
 
-<img src="/thunderCross/thunderCrossDemo.gif" alt="thunder-cross" width="100%"/>
+<img src="/thunderCross/images/demo.gif" alt="thunder-cross" width="100%"/>
