@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3cf2b74a-433b-4b58-98c7-54f990f4113c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Airplane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Award.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bullet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enemy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlyingObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShootGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/airplane.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bee.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gameover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hero0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hero1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pause.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/start.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BearMaps/BearMaps.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../BearMaps/BearMaps.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/autosave.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/Core/ControlCharacter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/Core/Direction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/Core/Engine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/Core/EngineLauncher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/Core/GameState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/Core/InputSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/Core/KeyboardInputSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/Core/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/Core/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/Core/RandomUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/Core/Range.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/Core/Rect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/Core/Room.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/Core/StringInputDevice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/Core/World.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/Core/WorldEvolver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/Core/game_states.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/InputDemo/DemoInputSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/InputDemo/InputSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/InputDemo/KeyboardInputSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/InputDemo/RandomInputSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/InputDemo/StringInputDevice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/TileEngine/TERenderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/TileEngine/TETile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/TileEngine/Tileset.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/lab12/BoringWorldDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/lab12/HexWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/lab12/RandomWorldDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/lab12/project3prep.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/lab13/MemoryGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/images/zelda2-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/proj3.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1l4HDjATUyk3z9rpWcn5IHcdqrq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="Application.ShootGame">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+      <module name="planeGame" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShootGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ShootGame" />
+      <module name="planeGame" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ShootGame" />
+        <item itemvalue="Application.HelloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3cf2b74a-433b-4b58-98c7-54f990f4113c" name="Default Changelist" comment="" />
+      <created>1606849326169</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606849326169</updated>
+      <workItem from="1606849328618" duration="79000" />
+      <workItem from="1606849420193" duration="878000" />
+      <workItem from="1606850766649" duration="2896000" />
+      <workItem from="1606892734485" duration="197000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="208" y="31" key="#Project_Structure" timestamp="1606849360885">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="31" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1606849360885" />
+    <state x="184" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606850549045">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="184" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.806@0.23.1440.806" timestamp="1606849613435" />
+    <state x="184" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.808@0.23.1440.808" timestamp="1606850549045" />
+    <state x="507" y="138" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1606849580970">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="507" y="138" key="#com.intellij.ide.macro.MacrosDialog/0.23.1440.806@0.23.1440.806" timestamp="1606849580970" />
+    <state width="1396" height="201" key="GridCell.Tab.0.bottom" timestamp="1606892974539">
+      <screen x="0" y="23" width="1440" height="792" />
+    </state>
+    <state width="1396" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1606849407428" />
+    <state width="1396" height="201" key="GridCell.Tab.0.bottom/0.23.1440.792@0.23.1440.792" timestamp="1606892974539" />
+    <state width="1396" height="206" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1606851440525" />
+    <state width="1396" height="206" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1606851018037" />
+    <state width="1396" height="201" key="GridCell.Tab.0.center" timestamp="1606892974539">
+      <screen x="0" y="23" width="1440" height="792" />
+    </state>
+    <state width="1396" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1606849407427" />
+    <state width="1396" height="201" key="GridCell.Tab.0.center/0.23.1440.792@0.23.1440.792" timestamp="1606892974539" />
+    <state width="1396" height="206" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1606851440524" />
+    <state width="1396" height="206" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1606851018035" />
+    <state width="1396" height="201" key="GridCell.Tab.0.left" timestamp="1606892974538">
+      <screen x="0" y="23" width="1440" height="792" />
+    </state>
+    <state width="1396" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1606849407427" />
+    <state width="1396" height="201" key="GridCell.Tab.0.left/0.23.1440.792@0.23.1440.792" timestamp="1606892974538" />
+    <state width="1396" height="206" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1606851440524" />
+    <state width="1396" height="206" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1606851018034" />
+    <state width="1396" height="201" key="GridCell.Tab.0.right" timestamp="1606892974539">
+      <screen x="0" y="23" width="1440" height="792" />
+    </state>
+    <state width="1396" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1606849407427" />
+    <state width="1396" height="201" key="GridCell.Tab.0.right/0.23.1440.792@0.23.1440.792" timestamp="1606892974539" />
+    <state width="1396" height="206" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1606851440525" />
+    <state width="1396" height="206" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1606851018036" />
+    <state x="221" y="23" key="SettingsEditor" timestamp="1606850588375">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="221" y="23" key="SettingsEditor/0.23.1440.808@0.23.1440.808" timestamp="1606850588375" />
+  </component>
+</project>

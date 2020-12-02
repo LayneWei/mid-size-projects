@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab0e6599-1825-4a94-8b82-63586dec4f1c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/BearMaps.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BearMaps.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/autosave.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/Core/ControlCharacter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/Core/Direction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/Core/Engine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/Core/EngineLauncher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/Core/GameState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/Core/InputSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/Core/KeyboardInputSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/Core/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/Core/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/Core/RandomUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/Core/Range.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/Core/Rect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/Core/Room.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/Core/StringInputDevice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/Core/World.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/Core/WorldEvolver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/Core/game_states.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/InputDemo/DemoInputSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/InputDemo/InputSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/InputDemo/KeyboardInputSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/InputDemo/RandomInputSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/InputDemo/StringInputDevice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/TileEngine/TERenderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/TileEngine/TETile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/TileEngine/Tileset.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/lab12/BoringWorldDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/lab12/HexWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/lab12/RandomWorldDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/lab12/project3prep.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/lab13/MemoryGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/images/zelda2-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/proj3.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kpFzpayO6NZ5vi7NLrSULbnuXu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab0e6599-1825-4a94-8b82-63586dec4f1c" name="Default Changelist" comment="" />
+      <created>1606389893249</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606389893249</updated>
+      <workItem from="1606389895175" duration="96000" />
+      <workItem from="1606572335654" duration="115000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
